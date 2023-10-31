@@ -1,0 +1,1 @@
+document.write("<p>El resultado de 5+3 es: " +(5+3)+" </p>");
